@@ -1,3 +1,7 @@
-{
-    
-}
+[
+    {
+        "title": "flip-background",
+        "name": "Flip the Background",
+        "description" : "The project changes the background on button click. The randomization happens either through CSSColorNames, HEX Codes or RGB Codes."
+    }
+]
